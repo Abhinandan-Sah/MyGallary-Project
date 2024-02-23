@@ -1,6 +1,6 @@
 # MyGallary Webpage
 -> MyGallary is created to have handon experience of ultimate power of CSS3 and also HTML5. In this project, we have used animation, hover and color gradient 
-which are very useful for creating an attractive websites. 
+which are very useful for creating an attractive websites.uses various html tags.
 # See my MyGallary project on below link
 ->[MyGallary-Link](https://main--capable-hamster-79c109.netlify.app/)
 # Images of MyGallary Webpage
